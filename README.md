@@ -14,9 +14,9 @@
 3. **Laragon**: Place this folder inside `C:\laragon\www\swiftpick-api`
 4. **Test**: Visit `http://localhost/swiftpick-api/api`
 
-## Default Admin
-- **Email**: `admin@swiftpick.com`
-- **Password**: `Admin@123`
+## Admin
+- **Email**: `*****`
+- **Password**: `*****`
 
 ## API Base URL
 ```
@@ -38,3 +38,4 @@ Authorization: Bearer <JWT_TOKEN>
 | Teacher | `/api/teacher/*` | teacher |
 | Driver | `/api/driver/*` | driver |
 | Admin | `/api/admin/*` | admin |
+
