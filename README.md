@@ -9,25 +9,18 @@
 
 ## Setup
 
-1. **Database**: Import `migrations/001_create_tables.sql` into MySQL
-2. **Config**: Update `config/database.php` with your credentials
-3. **Laragon**: Place this folder inside `C:\laragon\www\swiftpick-api`
-4. **Test**: Visit `http://localhost/swiftpick-api/api`
+**Soon**
 
 ## Admin
 - **Email**: `*****`
 - **Password**: `*****`
 
 ## API Base URL
-```
-http://localhost/swiftpick-api/api
-```
+
+**Soon**
 
 ## Authentication
-All protected routes require:
-```
-Authorization: Bearer <JWT_TOKEN>
-```
+**Soon**
 
 ## Endpoints Summary
 
@@ -38,4 +31,5 @@ Authorization: Bearer <JWT_TOKEN>
 | Teacher | `/api/teacher/*` | teacher |
 | Driver | `/api/driver/*` | driver |
 | Admin | `/api/admin/*` | admin |
+
 
